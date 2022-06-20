@@ -6,9 +6,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description                    | Tech/tools                                   |
 | ---------------------------- | ------------------------------ | -------------------------------------------- |
-| **Final project - Sportify** | A multi-page app where you can   MongoDB, Express, React, Node.js, JavaScript,
-                                 manage your workout schedule     Mongoose, Nodemon, Jest, React Testing       
-                               |                                | Library, HTML, CSS                           |
+| **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
+|                              | manage your workout schedule   | Mongoose, Nodemon, Jest, React Testing       |
+|                              |                                | Library, HTML, CSS                           |
 | **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
 | **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
 | **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
