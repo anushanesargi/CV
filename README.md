@@ -44,9 +44,9 @@ I now choose to delve into the developing side of the IT world as it very much a
 
 ## Education
 
-#### Makers Academy (Feb 2022 to May 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+#### Makers Academy (Jan 2022 to May 2022)
+- A 16 week intensive course focusing on mainly on test driven development, pair programming, self-led learning and agile mindset.
+- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 
 #### VTU(2009 to 2013) - India
 
