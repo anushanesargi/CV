@@ -4,14 +4,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description                    | Tech/tools                                   |
-| ---------------------------- | ------------------------------ | -------------------------------------------- |
-| **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
-|                              | manage your workout schedule   | Mongoose, Nodemon, Jest, React Testing       |
-|                              |                                | Library, HTML, CSS                           |
-| **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
-| **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
-| **Final project - Sportify** | A multi-page app where you can | MongoDB, Express, React, Node.js, JavaScript,|
+| Name | Description | Tech/tools   |
+| -----| ----------- | ------------ |
+| **Final project - Sportify** | A multi-page app where you can<br>manage your workout schedule | MongoDB, Express, React, Node.js, JavaScript,<br>Mongoose, Nodemon, Jest, React Testing<br>Library, HTML, CSS|
+| **Acebook** | A simple clone of Facebook | JavaScript, Express, Node.js,<br> Handlebars, MongoDB, Mongoose, Jest, Cypress,<br> HTML, CSS|
+| **MakersBnB** | A clone of AirBnB | Ruby, Sinatra, HTML, CSS, RSpec,<br> Capybara, Postgres|
 
 ## Work Experience
 
