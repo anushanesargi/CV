@@ -21,7 +21,7 @@ I now choose to delve into the developing side of the IT world as it very much a
 
 #### Makers Academy (Jan 2022 to May 2022)
 - My fast and curious learning skills helped me to successfully complete a 16 week intensive Makers Academy course focusing mainly on test driven development, pair programming, self-led learning and agile mindset which.
-- We frequently used paring programming, sometimes mob programming in order to effeciently solve the problems. My problem solving and logical thinking ability, excellent communication and team player skills helped me to smoothly sale through the pairing and the course.
+- We frequently used paring programming, sometimes mob programming in order to efficiently solve the problems. My problem solving and logical thinking ability, excellent communication and team player skills helped me to smoothly sale through the pairing and the course.
 - I also learnt that I perform amazingly well under pressure. The non-political and friendly environment was the key to my performance.
 
 #### VTU(2009 to 2013) - India
@@ -38,48 +38,24 @@ I now choose to delve into the developing side of the IT world as it very much a
 
 ## Work Experience
 
-**Reporting Analyst - IMG UK Ltd(Feb 2020 to June 2020) - London, UK
-  Responsibilities:**
-  - Generating weekly excel reports
-  - Data extraction and data cleaning using SQL and SSMS
-  - Data Visualisation and Dashboard creation using Power BI
+**Reporting Analyst - IMG UK Ltd(Feb 2020 to June 2020) - London, UK**
+  - The data extraction and cleaning using SQL and SSMS, generating of weekly excel reports, data visualisation and dasboard creation using PowerBI was the initial step to I realising that I like coding.
      
-**Payroll Administrator - IMG UK Ltd(October 2018 to Jan 2020) - London, UK
-  Responsibilities:**
-  - Overtime calculation
-  - New joiners, leavers and pay change salary calculations
-  - Benefits(Pensions and Notional Payments) calculations
-  - Indian Tax Calculations
-  - Preparing pre commit to post commit reports, balancing and finding out the reasons for the differences
-  - Apprenticeship levy calculations
+**Payroll Administrator - IMG UK Ltd(October 2018 to Jan 2020) - London, U**
+  - With all the payroll calculations, balancing reports and last minute changes I learnt how to work efficiently in a short period of time with attention to details. This role also helped to become an agile person.
+  
+**Accounts Assistant - Mazur Accounting Ltd(February 2018 to June 2018) - London, UK**
+  - From company incorporation to filing the accounts taught me how small business work in the UK.
 
-**Accounts Assistant - Mazur Accounting Ltd(February 2018 to June 2018) - London, UK
-  Responsibilities:**
-  - Company incorporation, government gateway registration, Corporation Tax registration, PAYE registration, CIS registration.
-  - Bookkeeping, Bank Reconciliation, VAT Return 
-  - Payroll
-  - Finalising micro-entity accounts using VT Transaction and filing the accounts to the Companies House and HMRC.
-  - Double Entry/Journals
+**Junior Accountant - WeDo Accounting(April 2017 – October 2017)  - London, UK** 
+  - This was my first into the accounting side of the world. This role taught me the importance of attention to detail and patience.
 
-**Junior Accountant - WeDo Accounting(April 2017 – October 2017)  - London, UK
-  Responsibilities:** 
-  - Bookkeeping
-  - VAT Return 
-  - Payroll 
-  - Accounts Preparation
-  - Double Entry/Journals
-  - Personal Tax Returns
-
-**Quality Analyst - Target Corporation India (June 2014 – April 2015) - Bangalore, India
-  Responsibilities:** 
-  - Test planning, Test case writing and Test case execution. 
-  - User Acceptance Testing 
+**Quality Analyst - Target Corporation India (June 2014 – April 2015) - Bangalore, India** 
+  - Test planning, test case writing, test case execution and UAT was my first introduction to the job of QA and how important it is to test your code.  
  
 **XML Content Editor - Pronet Informatix (August 2013 – May 2014) - Bangalore, India
   Responsibilities:**  
-  - E-publishing 
-  - Scripting publication content using XMLHTML
-  - Styling the e-books using CSS
+  - The very first job of my life where I did E-publishing, Scripting publication content using XMLHTML, Styling the e-books using CSS. As a new comer we were made to perform under tight deadlines which made me quick and efficient.
 
 ## Hobbies
 
