@@ -1,7 +1,7 @@
 ## Anusha Nesargi
 
-I have worked in various accounting roles for 3 years and later switched to a Reporting Analyst role as I wanted to explore the IT world because of my Computer Science Engineering degree.
 I am an innovative, agile, emotive person and proven to be so in all my previous roles. I am very open to new experiences not just on a personal front but on a professional front too.
+I have worked in various accounting roles for 3 years and later switched to a Reporting Analyst role as I wanted to explore the IT world because of my Computer Science Engineering degree.
 I now choose to delve into the developing side of the IT world as it very much appeals to the logical and analytical strength of mine.
 
 ## Projects
@@ -11,24 +11,6 @@ I now choose to delve into the developing side of the IT world as it very much a
 | **Final project - Sportify** | A multi-page app where you can<br>manage your workout schedule | ***Programming Knowledge:*** Javascript, HTML, CSS, Mongoose<br> ***Frameworks/Libraries:*** Express, React, Node.js, Jest, React Testing<br>***Database:*** MongoDB<br>***Tools:*** GitHub, VSCode, Nodemon|
 | **Acebook** | A simple clone of Facebook |***Programming Knowledge:*** Javascript, HTML, CSS, Mongoose<br> ***Frameworks/Libraries:*** Express, Node.js, Jest, Cypress<br>***Database:*** MongoDB<br>***Tools:*** GitHub, VSCode, Nodemon|
 | **MakersBnB** | A clone of AirBnB |***Programming Knowledge:*** Ruby, HTML, CSS, SQL<br> ***Frameworks/Libraries:*** Sinatra, Capybara, RSpec<br>***Database:*** PostgreSQL<br>***Tools:*** GitHub, VSCode|
-
-## Tech Skills
-
-#### Programming Knowledge
-
-- Ruby, Python, SQL,  HTML, CSS, Javascript, DAX
-
-#### Frameworks/Libraries
-
-- Sinatra, Capybara, React, Express, Node.js, RSpec, Jest, Cypress
-
-#### Database
-
-- PostgreSQL, MongoDB, SQL Server Management Studio
-
-#### Tools
-
-- GitHub, VSCode, Power BI
 
 ## Soft Skills
 
