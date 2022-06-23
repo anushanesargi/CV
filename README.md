@@ -8,7 +8,7 @@ I now choose to delve into the developing side of the IT world as it very much a
 
 | Name | Description | Tech/tools   |
 | -----| ----------- | ------------ |
-| **Final project - Sportify** | A multi-page app where you can<br>manage your workout schedule | MongoDB, Express, React, Node.js, JavaScript,<br>Mongoose, Nodemon, Jest, React Testing<br>Library, HTML, CSS|
+| **Final project - Sportify** | A multi-page app where you can<br>manage your workout schedule | **Programming Knowledge:** Javascript, HTML, CSS, Mongoose<br> **Frameworks/Libraries** Express, React, Node.js, Jest, React Testing<br>**Database** MongoDB<br>**Tools** GitHub, VSCode, Nodemon|
 | **Acebook** | A simple clone of Facebook | JavaScript, Express, Node.js,<br> Handlebars, MongoDB, Mongoose, Jest, Cypress,<br> HTML, CSS|
 | **MakersBnB** | A clone of AirBnB | Ruby, Sinatra, HTML, CSS, RSpec,<br> Capybara, Postgres|
 
