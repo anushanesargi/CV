@@ -39,13 +39,13 @@ I now choose to delve into the developing side of the IT world as it very much a
 ## Work Experience
 
 **Reporting Analyst - IMG UK Ltd(Feb 2020 to June 2020) - London, UK**
-  - The data extraction and cleaning using SQL and SSMS, generating of weekly excel reports, data visualisation and dasboard creation using PowerBI was the initial step to I realising that I like coding.
+  - The data extraction and cleaning using SQL and SSMS, generating of weekly excel reports, data visualisation and dashboard creation using PowerBI was the initial step to realising that I like coding.
      
 **Payroll Administrator - IMG UK Ltd(October 2018 to Jan 2020) - London, U**
   - With all the payroll calculations, balancing reports and last minute changes I learnt how to work efficiently in a short period of time with attention to details. This role also helped to become an agile person.
   
 **Accounts Assistant - Mazur Accounting Ltd(February 2018 to June 2018) - London, UK**
-  - From company incorporation to filing the accounts taught me how small business work in the UK.
+  - From company incorporation to filing the accounts taught me how small businesses work in the UK.
 
 **Junior Accountant - WeDo Accounting(April 2017 – October 2017)  - London, UK** 
   - This was my first into the accounting side of the world. This role taught me the importance of attention to detail and patience.
@@ -55,7 +55,7 @@ I now choose to delve into the developing side of the IT world as it very much a
  
 **XML Content Editor - Pronet Informatix (August 2013 – May 2014) - Bangalore, India
   Responsibilities:**  
-  - The very first job of my life where I did E-publishing, Scripting publication content using XMLHTML, Styling the e-books using CSS. As a new comer we were made to perform under tight deadlines which made me quick and efficient.
+  - The very first job of my life where I did E-publishing, Scripting publication content using XML, HTML, Styling the e-books using CSS. As freshers we were made to perform under tight deadlines which made me quick and efficient.
 
 ## Hobbies
 
