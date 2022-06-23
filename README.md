@@ -53,8 +53,7 @@ I now choose to delve into the developing side of the IT world as it very much a
 **Quality Analyst - Target Corporation India (June 2014 – April 2015) - Bangalore, India** 
   - Test planning, test case writing, test case execution and UAT was my first introduction to the job of QA and how important it is to test your code.  
  
-**XML Content Editor - Pronet Informatix (August 2013 – May 2014) - Bangalore, India
-  Responsibilities:**  
+**XML Content Editor - Pronet Informatix (August 2013 – May 2014) - Bangalore, India** 
   - The very first job of my life where I did E-publishing, Scripting publication content using XML, HTML, Styling the e-books using CSS. As freshers we were made to perform under tight deadlines which made me quick and efficient.
 
 ## Hobbies
