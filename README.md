@@ -22,7 +22,7 @@ I now choose to delve into the developing side of the IT world as it very much a
 #### Makers Academy (Jan 2022 to May 2022)
 - My fast and curious learning skills helped me to successfully complete a 16 week intensive Makers Academy course focusing mainly on test driven development, pair programming, self-led learning and agile mindset which.
 - We frequently used paring programming, sometimes mob programming in order to efficiently solve the problems. My problem solving and logical thinking ability, excellent communication and team player skills helped me to smoothly sale through the pairing and the course.
-- I also learnt that I perform amazingly well under pressure. The non-political and friendly environment was the key to my performance.
+- During my final project, with short period of time and existing health conditions I learnt that I perform amazingly well under pressure. The non-political and friendly environment was the key to my performance.
 
 #### VTU(2009 to 2013) - India
 
