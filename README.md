@@ -12,13 +12,6 @@ I now choose to delve into the developing side of the IT world as it very much a
 | **Acebook** | A simple clone of Facebook |***Programming Knowledge:*** Javascript, HTML, CSS, Mongoose<br> ***Frameworks/Libraries:*** Express, Node.js, Jest, Cypress<br>***Database:*** MongoDB<br>***Tools:*** GitHub, VSCode, Nodemon|
 | **MakersBnB** | A clone of AirBnB |***Programming Knowledge:*** Ruby, HTML, CSS, SQL<br> ***Frameworks/Libraries:*** Sinatra, Capybara, RSpec<br>***Database:*** PostgreSQL<br>***Tools:*** GitHub, VSCode|
 
-## Soft Skills
-
-- Fast and  curious Learner
-- Excellent communicator
-- I Work amazingly well under pressure provided there is no influence of any politics
-- Problem solver and logical thinker
-
 ## Other Skills
 
 - OOP, TDD, MVC, DDD
@@ -27,8 +20,9 @@ I now choose to delve into the developing side of the IT world as it very much a
 ## Education
 
 #### Makers Academy (Jan 2022 to May 2022)
-- A 16 week intensive course focusing on mainly on test driven development, pair programming, self-led learning and agile mindset.
-- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
+- My fast and curious learning skills helped me to successfully complete a 16 week intensive Makers Academy course focusing mainly on test driven development, pair programming, self-led learning and agile mindset which.
+- We frequently used paring programming, sometimes mob programming in order to effeciently solve the problems. My problem solving and logical thinking ability, excellent communication and team player skills helped me to smoothly sale through the pairing and the course.
+- I also learnt that I perform amazingly well under pressure. The non-political and friendly environment was the key to my performance.
 
 #### VTU(2009 to 2013) - India
 
