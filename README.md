@@ -29,12 +29,12 @@ I now choose to delve into the developing side of the IT world as it very much a
 - Bachelor’s degree(2:1 equivalent) in Computer Science (B.E. CSE)
 
 #### Training/Certifications:
-- Codewars Profile: https://www.codewars.com/users/Anusha%20Nesargi
-- Codeacademy : https://www.codecademy.com/learn
-- Excel for Data Analysis: https://www.coursera.org/learn/excel-data-analysis 
-- Automated software testing with Python : https://www.udemy.com/course/automated-software-testing-with-python/learn/lecture/16000344#overview
-- Python - Self Learning : https://www.udemy.com/course/automate
-- SQL - Self Learning : https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=3135ss
+- [Codewars](https://www.codewars.com/users/Anusha%20Nesargi)
+- [Codeacademy](https://www.codecademy.com/learn)
+- [Excel for Data Analysis](https://www.coursera.org/learn/excel-data-analysis)
+- [Automated software testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/learn/lecture/16000344#overview)
+- [Python - Self Learning](https://www.udemy.com/course/automate)
+- [SQL - Self Learning](https://www.youtube.com/watch?v=9Pzj7Aj25lw&t=3135ss)
 
 ## Work Experience
 
