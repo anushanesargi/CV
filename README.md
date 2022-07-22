@@ -11,6 +11,7 @@ I now choose to delve into the developing side of the IT world as it very much a
 | [**Sportify** - Final Project](https://github.com/valentina-maggio/sportify)| A multi-page app where you can<br>manage your workout schedule | ***Programming Knowledge:*** Javascript, HTML, CSS, Mongoose<br> ***Frameworks/Libraries:*** Express, React, Node.js, Jest, React Testing<br>***Database:*** MongoDB<br>***Tools:*** GitHub, VSCode, Nodemon|
 | [**Acebook**](https://github.com/arhussain1/acebook-node-template) | A simple clone of Facebook |***Programming Knowledge:*** Javascript, HTML, CSS, Mongoose<br> ***Frameworks/Libraries:*** Express, Node.js, Jest, Cypress<br>***Database:*** MongoDB<br>***Tools:*** GitHub, VSCode, Nodemon|
 | [**MakersBnB**](https://github.com/HarryClenyg/MakersBnB) | A clone of AirBnB |***Programming Knowledge:*** Ruby, HTML, CSS, SQL<br> ***Frameworks/Libraries:*** Sinatra, Capybara, RSpec<br>***Database:*** PostgreSQL<br>***Tools:*** GitHub, VSCode|
+| [**Chitter**](https://github.com/anushanesargi/Chitter) | A clone of Chitter|***Programming Knowledge:*** Ruby, HTML, CSS, SQL<br> ***Frameworks/Libraries:*** Sinatra, Capybara, RSpec<br>***Database:*** PostgreSQL<br>***Tools:*** GitHub, VSCode|
 
 ## Other Skills
 
