@@ -1,8 +1,8 @@
 ## Anusha Nesargi
 
-I am an innovative, agile, emotive person and proven to be so in all my previous roles. I am very open to new experiences not just on a personal front but on a professional front too.
-I have worked in various accounting roles for 3 years and later switched to a Reporting Analyst role as I wanted to explore the IT world because of my Computer Science Engineering degree.
-I now choose to delve into the developing side of the IT world as it very much appeals to the logical and analytical strength of mine.
+I am an innovative, agile, emotive person and proven to be so in all my previous roles. I am open to new experiences, not just on a personal front but on a professional front too.
+I have worked in various accounting roles for 3 years and later switched to a Reporting Analyst role as I wanted to explore the Technology world because of my Computer Science and Engineering degree.
+I now choose to delve deep into the developing side of the technology world as it very much appeals to the logical and analytical strength of mine.
 
 ## Projects
 
@@ -59,4 +59,4 @@ I now choose to delve into the developing side of the IT world as it very much a
 
 ## Hobbies
 
-I am very open to new experiences hence try everything that interests me like baking, painting, yoga, cycling, badminton. Pottery is something that I have recently started learning and I love it.
+I like change and the concept of trying out everything that facinates me. Thus, I have multiple hobbies like baking, cooking, cycling, playing badminton, pottery. Tennis is something that I have recently learnt.
